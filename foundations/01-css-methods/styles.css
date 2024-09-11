@@ -1,0 +1,10 @@
+/* styles.css */
+
+div {
+    background-color: red;
+    font-size: 32px;
+    text-emphasis: bold;
+    text-align: center;
+    color: white;
+}
+
